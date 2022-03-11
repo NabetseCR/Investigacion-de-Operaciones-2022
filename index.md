@@ -1,5 +1,23 @@
 # Bienvenidos
 
-## Lunes 3 de Marzo del 2022
+## Jueves 10 de Marzo del 2022
 
-### Investigacion de Operaciones
+### Mathematica
+
+Ejecutar celda de codigo en Mathematica
+
+    - Shift + Enter
+
+Parentesis
+
+{} Listas
+
+() Jerarquia de Operaciones
+
+[] Argumentos de las funciones del programa
+
+Comentarios
+
+(* Esto es un comentario en Mathematica *)
+
+% : Hace referencia al ultimo resultado generado
